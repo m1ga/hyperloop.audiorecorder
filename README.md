@@ -18,6 +18,6 @@ RecordView (https://github.com/3llomi/RecordView)
 * record audio
 * play audio
 
-## Allow write access and camera access by hand! There is currently no permission request in the code!
+## Manually allow write and microphone permission! There is currently no permission request in the code!
 
 ![img](screenshot.png)
